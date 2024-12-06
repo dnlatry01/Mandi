@@ -102,8 +102,8 @@ header {
 
 /* Custom Box Styles */
 
-.box#melon {
-  background-image: url('melon.jpg');
+.box#broccoli {
+  background-image: url('broccoli.jpg');
   background-size: cover;
   background-position: center;
   background-color: green;
@@ -123,22 +123,22 @@ header {
   background-color: green;
 }
 
-.box#grapes{
-  background-image: url('grapes.jpg');
+.box#rabbit{
+  background-image: url('rabbit.jpg');
   background-size: cover;
   background-position: center;
   background-color: green;
 }
 
-.box#banana{
-  background-image: url('banana.jpg');
+.box#cake{
+  background-image: url('cake.jpg');
   background-size: cover;
   background-position: center;
   background-color: green;
 }
 
-.box#watermelon{
-  background-image: url('watermelon.jpg');
+.box#coke{
+  background-image: url('coke.jpg');
   background-size: cover;
   background-position: center;
   background-color: green;
@@ -158,8 +158,8 @@ header {
   background-color: green;
 }
 
-.box#guava{
-  background-image: url('guava.jpg');
+.box#bag{
+  background-image: url('bag.jpg');
   background-size: cover;
   background-position: center;
   background-color: green;
